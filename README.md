@@ -13,6 +13,6 @@
   * 구현 1 - FrontEnd (Main)
   * junit test
 * gradle build
-* test => Postman(api) 호출 + ApiProductControllerTest, ApiBrandControllerTest
+* test => Postman(api) 호출 + ApiProductControllerTest
 * 데이터 초기화 => sql script 사용
 * 에러 처리 => GlobalExceptionHandler
